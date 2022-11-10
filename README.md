@@ -1,7 +1,7 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)](https://torbenginsberg.github.io/)
 <h1 align="center">Hi 👋, I'm Torben Ginsberg</h1>
 <h3 align="center">A software engineer, film-fanatic and continuous learner</h3>
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=torbenginsberg&label=Profile%20views&color=0e75b6&style=flat" alt="torbenginsberg" /> </p>
 
@@ -16,8 +16,6 @@
 - 💬 Ask me about **JavaScript, React, your favorite movies**
 
 - 📫 How to reach me **tginsberg8@gmail.com**
-
-- 📄 Know about my experiences [https://torbenginsberg.github.io/](https://torbenginsberg.github.io/)
 
 - ⚡ Fun fact **the Nordic origins of my name "Torben" translate loosely to "thunder bear" or "Thor's bear""**
 
