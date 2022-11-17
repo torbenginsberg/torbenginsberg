@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=torbenginsberg" alt="torbenginsberg" /></a> </p>
 
-- 🔭 I’m currently working on **DS&A practice**
+- 🔭 I’m currently working on **Learning Swift and DS&A practice**
 
 - 🌱 I’m currently learning **Python**
 
